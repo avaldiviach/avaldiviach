@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaldiviach&label=Profile%20views&color=0e75b6&style=flat" alt="avaldiviach" /> </p>
 
-- 👯 I’m looking to collaborate on [arcanesneakers](arcanesneakers.netlify.app)
+- 🔭 I’m currently working on [arcanesneakers](arcanesneakers.netlify.app)
 
 - 💬 Ask me about **JavaScript | React | Redux | NodeJS | Express | Sequelize | PostgreSQL | Marketing Digital**
 
